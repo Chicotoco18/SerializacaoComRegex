@@ -1,0 +1,20 @@
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2017\Segundo Semestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.exe.config
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\bin\Debug\Aula07.pdb
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.csprojResolveAssemblyReference.cache
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.exe
+C:\Users\asenj\OneDrive\Documentos\Meus Documentos\Computador - Casa\Apostilas\2018\SegundoSemestre\Santa C# noite\Bim02Aula08\SolucaoAula07\Aula07\Aula07\obj\Debug\Aula07.pdb
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\bin\Debug\Aula07.exe.config
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\bin\Debug\Aula07.exe
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\bin\Debug\Aula07.pdb
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\obj\Debug\Aula07.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\obj\Debug\Aula07.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\obj\Debug\Aula07.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\obj\Debug\Aula07.exe
+C:\Users\unisanta\Desktop\Bim02Aula12\TPAula11\Aula07\obj\Debug\Aula07.pdb
